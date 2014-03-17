@@ -4,6 +4,6 @@
   },
   "devDependencies": {
     "grunt": "^0.4.4",
-    "assemble": "v0.4.37"
+    "assemble": "^0.4.37"
   }
 }
